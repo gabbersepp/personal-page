@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "0.11.1",
+    "@11ty/eleventy": "0.12.1",
     "cross-env": "7.0.3",
     "github-code-cloud": "1.3.5",
     "request": "2.88.2",
